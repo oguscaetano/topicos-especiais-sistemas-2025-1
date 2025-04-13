@@ -36,6 +36,7 @@ Desenvolver uma **Minimal API em C# utilizando o padrão REST**, com exportaçã
   - Nome dos integrantes da dupla
   - Instruções para executar o projeto
   - Qualquer outra informação que julgarem importante
+  - Siga o template de README [neste arquivo](./README-projeto.md)
 
 ### 📝 Critérios de Avaliação
 A avaliação será feita em **duas partes**:
